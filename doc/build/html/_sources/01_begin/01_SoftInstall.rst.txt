@@ -1,5 +1,5 @@
 软件安装(Lattice版)
-===================
+=====================
 
 Lattice版小脚丫使用的芯片是MachXO2系列，使用的开发工具是Dimaond。
 
@@ -11,4 +11,5 @@ Lattice版小脚丫使用的芯片是MachXO2系列，使用的开发工具是Dim
 
 `Diamond 32bit <http://files.latticesemi.com/Diamond/3.8/3.8.0.115.3_Diamond.zip>`_
 
+* Diamond软件会自动升级，所以如果版本老了，按软件提示升级即可。另外，想要使用Linux版的Diamond请读者自行去官方网站下载。
 
