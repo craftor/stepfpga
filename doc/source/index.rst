@@ -10,7 +10,8 @@ Welcome to stepfpga's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
+	01_begin/index
+	02_example/index  
 
 Indices and tables
 ==================
